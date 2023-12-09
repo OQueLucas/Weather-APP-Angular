@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Useful Commands
+
+- Create a project `ng new "project name"`
+- Initialize and open project in browser `ng s --o (ng serve --open)`
+
+## pacotes
+
+$ npm install @fortawesome/fontawesome-svg-core
+$ npm install @fortawesome/free-solid-svg-icons
+$ npm install @fortawesome/angular-fontawesome@0.13.x
